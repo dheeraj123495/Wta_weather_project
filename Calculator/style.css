@@ -1,0 +1,47 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-image: radial-gradient(circle at -20.44% 43.84%, #a5ded5 0, #a2deda 3.33%, #a1dedf 6.67%, #a0dde4 10%, #a1dde9 13.33%, #a3dced 16.67%, #a5dbf0 20%, #a9daf3 23.33%, #aed9f6 26.67%, #b3d7f7 30%, #b9d6f8 33.33%, #c0d4f8 36.67%, #c6d2f8 40%, #cdd0f7 43.33%, #d4cff5 46.67%, #dacdf2 50%, #e0cbef 53.33%, #e6caeb 56.67%, #ebc9e7 60%, #efc7e2 63.33%, #f3c7dd 66.67%, #f6c6d8 70%, #f8c6d3 73.33%, #fac6ce 76.67%, #fbc6c9 80%, #fbc6c4 83.33%, #fac7bf 86.67%, #f8c8bb 90%, #f6c9b7 93.33%, #f3cbb4 96.67%, #f0ccb1 100%);
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 60px;
+    border-radius: 50%;
+    background-color: #ff42aa;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    font-size: 20px;
+    margin: 0;
+    background: none;
+    padding: 10px 0px;
+    width: 250px;
+    text-align: center;
+    border-style: none;
+    outline: none;
+    border-bottom: 2px solid black;
+}
+
+.text-center {
+    color: #ea3232cc;
+    font-size: 3em;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    padding-top: 1px;
+    width: auto;
+    border-radius: 5px;
+}
